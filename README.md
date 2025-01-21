@@ -34,28 +34,28 @@ I bring these strengths to the table:
 
 ### **Programming Languages**
 
--   🐍 **Python:** 85% (TensorFlow, PyTorch, Pandas, NumPy, Scikit-learn)
--   🧰 **C++:** 70% (Efficient Algorithms, Object-Oriented Programming, Systems Programming)
--   📜 **JavaScript:** 70% (React, Node.js)
--   ☕ **Java:** 60% (Spring Boot, Object-Oriented Design)
--   🎮 **C#:** (Unity, Unreal Engine)
+-   🐍 **Python:** (TensorFlow, PyTorch, Pandas, NumPy, Scikit-learn)
+-   🧰 **C++:** (Efficient Algorithms, Object-Oriented Programming, Systems Programming)
+-   📜 **JavaScript:** (React, Node.js)
+-   ☕ **Java:** (Spring Boot, Object-Oriented Design)
+-    🎮 **C#:** (Unity, Unreal Engine)
 
 ### **Web Development**
 
 -   🌐 **Frontend:** HTML5, CSS3, JavaScript, React.js
 -   ⚙️ **Backend:** Node.js, Express.js
--   🗄️ **Database:** MongoDB, MySQL
+-   🗄️ **Database:** MongoDB, MySQL, Supabase
 
 ### **AI/ML**
 
 -   🧠 **Deep Learning Frameworks:** TensorFlow, PyTorch
 -   🤖 **Machine Learning:** Scikit-learn, Keras
--   👁️ **Computer Vision:** OpenCV, Ultralytics YOLO
--   🗣️ **NLP:** Hugging Face, BERT, GPT, **Gemma (Google)**
+-    👁️ **Computer Vision:** OpenCV, Ultralytics YOLO, SAM (Segment Anything Model)
+-   🗣️ **NLP:** Hugging Face, BERT, GPT, Gemma (Google), Llama
 
 ### **Tools**
 
--   🛠️ Git, Docker, Kubernetes, Jenkins, Jupyter Notebook, Photoshop, Illustrator, Figma, Pygame, **Unity, Unreal Engine**
+-   🛠️ Git, Docker, Kubernetes, Jenkins, Jupyter Notebook, Photoshop, Illustrator, Figma, Pygame, Unity, Unreal Engine
 
 ---
 
@@ -90,8 +90,8 @@ I bring these strengths to the table:
 -   🥋 **Taekwondo 3rd Dan** *(Kukkiwon Certified)*
 -   🥋 **Hapkido 3rd Dan** *(Kukkiwon Certified)*
 -   🌐 RFID-GL (Korea IOT Association)
--    🖼️ **GTQ (Adobe Photoshop)**, *KPC (Korea Productivity Center) Certified*
--    🖋️ **GTQ-i (Adobe Illustrator)**, *KPC (Korea Productivity Center) Certified*
+-   🖼️ **GTQ (Adobe Photoshop)**, *KPC (Korea Productivity Center) Certified*
+-   🖋️ **GTQ-i (Adobe Illustrator)**, *KPC (Korea Productivity Center) Certified*
 
 ---
 
