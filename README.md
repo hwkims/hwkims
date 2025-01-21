@@ -4,7 +4,7 @@
 - **I’m interested in**: Web Development, Machine Learning, Deep Learning, Problem Solving, Algorithm Optimization
 - **I’m currently learning**: Deep Learning, TensorFlow, PyTorch, Full-Stack Web Development (React, Node.js)
 - **I’m looking to collaborate on**: Open Source Projects, AI/ML Projects, Full-Stack Web Development, Data Science Projects
-- **How to reach me**: [Email](mailto:hwkims@naver.com), [LinkedIn](https://www.linkedin.com/in/hyun-woo-kim-283313336/)
+- **How to reach me**: [Email](mailto:hwkims@naver.com), [LinkedIn]([https://www.linkedin.com/in/hwkims/]))
 - **Pronouns**: He/Him
 - **Fun fact**: I enjoy solving coding puzzles and learning new AI techniques!
 
