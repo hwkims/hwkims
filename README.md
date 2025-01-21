@@ -1,89 +1,90 @@
-# 👋 Hi, I’m @hwkims
+# 👋 Hi there! I'm Hyunwoo Kim (hwkims) 🚀
 
 ## 🌟 About Me
-- **I’m interested in**: Web Development, Machine Learning, Deep Learning, Problem Solving, Algorithm Optimization
-- **I’m currently learning**: Deep Learning, TensorFlow, PyTorch, Full-Stack Web Development (React, Node.js)
-- **I’m looking to collaborate on**: Open Source Projects, AI/ML Projects, Full-Stack Web Development, Data Science Projects
-- **How to reach me**: [Email](mailto:hwkims@naver.com), [LinkedIn](https://www.linkedin.com/in/hwkims/))
-- **Pronouns**: He/Him
-- **Fun fact**: I enjoy solving coding puzzles and learning new AI techniques!
+
+I'm a passionate learner and builder with a diverse skill set, bridging the worlds of **Web Development**, **Machine Learning**, and **Deep Learning**. I thrive on solving complex problems, optimizing algorithms, and crafting user-friendly interfaces. Currently, I'm expanding my expertise through the **NVIDIA AI Academy**, focusing on cutting-edge AI/ML techniques.
+
+-   💡 **Interests:** Web Development, Machine Learning, Deep Learning, UI/UX Design, Problem Solving, Algorithm Optimization
+-   🌱 **Currently Learning:** Deep Learning, TensorFlow, PyTorch, Full-Stack Web Development (React, Node.js), Advanced AI/ML Techniques.
+-   🤝 **Looking to Collaborate On:** Open Source Projects, AI/ML Projects, Full-Stack Web Development, Data Science Projects.
+-   📫 **Reach Me:** [Email](mailto:hwkims@naver.com), [LinkedIn](https://www.linkedin.com/in/hwkims/), [Hugging Face](https://huggingface.co/kimhyunwoo)
+-   🗣️ **Pronouns:** He/Him
+-   ✨ **Fun Fact:** I enjoy tackling coding challenges, exploring new AI techniques, and designing intuitive user experiences!
 
 ---
 
-## 💪 Strengths
+## 💪 My Strengths
 
-저는 다음과 같은 장점을 가지고 있습니다:
+I bring these strengths to the table:
 
-- **성실함**: 저는 맡은 업무를 성실하게 수행하고, 책임감을 가지고 있습니다. 업무를 철저하게 준비하고, 계획을 세워 목표를 달성하기 위해 끊임없이 노력합니다.
-  
-- **커뮤니케이션 능력**: 다른 사람들과 원활하게 소통할 수 있으며, 의견을 명확하게 표현하고, 상대방의 의견을 경청할 수 있습니다.
-  
-- **문제 해결 능력**: 문제를 분석하고, 해결책을 찾는 데 능숙합니다. 다양한 관점에서 문제를 바라보며 창의적인 해결책을 제시할 수 있습니다.
-  
-- **학습 능력**: 새로운 기술과 지식을 빠르게 학습하며, 도전을 두려워하지 않고 지속적으로 성장하려고 합니다.
+-   🎯 **Diligence:** I'm committed to excellence, ensuring thorough preparation and consistent effort in all my endeavors.
+-   🗣️ **Communication:** I articulate my ideas clearly, actively listen, and foster collaboration.
+-   🧠 **Problem-Solving:** I excel at analyzing problems, thinking creatively, and crafting effective solutions.
+-   🚀 **Adaptability & Learning:** I quickly grasp new concepts, eagerly seek new knowledge, and embrace challenges.
 
 ---
 
 ## ⚡ Fun Fact
-- I enjoy **reading** about new technologies and am a huge fan of **coding challenges** and **competitive programming**. I also spend a lot of time exploring Deep Learning research papers and trying to implement the ideas myself!
+
+-   I love diving into new technologies, participating in coding competitions, and implementing the latest deep learning research. I also find joy in building web applications and focusing on user-centered design!
 
 ---
 
-## 📊 Technical Skills
+## 💻 Technical Skills
 
 ### **Programming Languages**
-- **Python**: 85% (TensorFlow, PyTorch, Pandas, Numpy, Scikit-learn)
-- **C++**: 70% (Efficient algorithms, Object-Oriented Programming, Systems Programming)
-- **JavaScript**: 70% (React, Node.js)
-- **Java**: 60% (Spring Boot, Object-Oriented Design)
+
+-   🐍 **Python:** 85% (TensorFlow, PyTorch, Pandas, NumPy, Scikit-learn)
+-   🧰 **C++:** 70% (Efficient Algorithms, Object-Oriented Programming, Systems Programming)
+-   📜 **JavaScript:** 70% (React, Node.js)
+-   ☕ **Java:** 60% (Spring Boot, Object-Oriented Design)
 
 ### **Web Development**
-- **Frontend**: HTML, CSS, JavaScript, React
-- **Backend**: Node.js, Express.js, Python (Flask, Django)
-- **Database**: MongoDB, MySQL
 
-### **Deep Learning & AI**
-- **Deep Learning Frameworks**: TensorFlow, PyTorch
-- **Machine Learning**: Scikit-learn, Keras
-- **Computer Vision**: OpenCV, YOLO
-- **NLP**: Hugging Face, BERT, GPT
+-   🌐 **Frontend:** HTML5, CSS3, JavaScript, React.js
+-   ⚙️ **Backend:** Node.js, Express.js
+-   🗄️ **Database:** MongoDB, MySQL
+
+### **AI/ML**
+
+-   🧠 **Deep Learning Frameworks:** TensorFlow, PyTorch
+-   🤖 **Machine Learning:** Scikit-learn, Keras
+-   👁️ **Computer Vision:** OpenCV, Ultralytics YOLO
+-   🗣️ **NLP:** Hugging Face, BERT, GPT
 
 ### **Tools**
-- Git, Docker, Kubernetes, Jenkins, Jupyter Notebook
+
+-   🛠️ Git, Docker, Kubernetes, Jenkins, Jupyter Notebook, Photoshop, Illustrator, Figma, Pygame
 
 ---
 
 ## 🎓 Certifications
 
-- **NVIDIA Deep Learning Institute (DLI) Certified**: 
-    - Deep Learning for Computer Vision
-    - Fundamentals of Deep Learning for Multi-GPUs
+-   🏆 **NVIDIA Deep Learning Institute (DLI) Certified:**
+    -   Deep Learning for Computer Vision
+    -   Fundamentals of Deep Learning for Multi-GPUs
 
 ---
 
 ## 📂 Projects
 
-### 1. **AI-Based Image Classification with CNN**
-- **Tech**: Python, TensorFlow, Keras, OpenCV
-- **Description**: Implemented a Convolutional Neural Network (CNN) to classify images from a custom dataset. Achieved 95% accuracy on the test set.
+### 1. 🚬 Real-time Cigarette Detection System
 
-### 2. **Personal Portfolio Website**
-- **Tech**: HTML, CSS, JavaScript, React
-- **Description**: A personal portfolio to showcase my projects and achievements, built using React for dynamic components and routing.
+-   **Tech:** Python, OpenCV, Ultralytics YOLO, Pygame
+-   **Description:** Developed a real-time object detection system using the YOLOv8 model to detect cigarettes. Implemented with OpenCV for webcam streaming, Ultralytics YOLO for object detection, and Pygame for audio alerts. Utilized threading for asynchronous processing. Fine-tuned the model and achieved a 98% accuracy.
 
-### 3. **Task Management App**
-- **Tech**: Node.js, Express, MongoDB, JavaScript
-- **Description**: A task management application with user authentication and CRUD functionalities.
+### 2. 🗣️ Fine-tuning Gemma 2 for Korean Emotional Dialogue
 
-### 4. **Movie Recommendation System**
-- **Tech**: Python, TensorFlow, Pandas, Scikit-learn
-- **Description**: Developed a movie recommendation system using collaborative filtering techniques, achieving good results based on user preferences.
+-   **Tech:** Python, TensorFlow, AI Hub "Emotional Dialogue Corpus," Kaggle TPUs
+-   **Description:** Fine-tuned the Gemma 2 model using the AI Hub "Emotional Dialogue Corpus" to create a culturally sensitive AI companion for mental wellbeing support within the South Korean community. Leveraged Kaggle TPUs and LoRA for optimized training and memory efficiency.
 
 ---
 
-## 📫 Contact Me
-- [LinkedIn](https://www.linkedin.com/in/hyun-woo-kim-283313336/)
-- [Email](mailto:hwkims@naver.com)
+## 📫 Let's Connect!
+
+-   🔗 **LinkedIn:** [https://www.linkedin.com/in/hwkims/](https://www.linkedin.com/in/hwkims/)
+-   ✉️ **Email:** [hwkims@naver.com](mailto:hwkims@naver.com)
+-   🤗 **Hugging Face:** [https://huggingface.co/kimhyunwoo](https://huggingface.co/kimhyunwoo)
 
 ---
 
