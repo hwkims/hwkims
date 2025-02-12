@@ -22,30 +22,29 @@
 | **Interests**     | 🤖 AI, 🧠 ML, ⚙️ Deep Learning, 🌐 Web Development, ✨ UI/UX Design, 🎯 Problem Solving                                                    |
 | **Currently Learning** | Advanced AI/ML at NVIDIA AI Academy, Cutting-edge game development techniques                                                       |
 | **Collaboration** | Open Source, AI/ML, Full-Stack Web, Data Science, Game Development                                                                     |
-| **Strengths**         | **Diligence:** Commitment to excellence.  **Communication:** Clear articulation. **Problem-Solving:** Analytical & creative. **Adaptability:** Rapid learning. |
 
+---
+## 💪 Key Strengths
+
+*   🎯 **Diligence:**  Unwavering commitment to excellence, meticulous preparation, and consistent effort in all projects.
+*   🗣️ **Communication:**  Clear and concise articulation of ideas, active listening skills, and fostering collaborative environments.
+*   🧠 **Problem-Solving:**  Proficiency in analyzing complex problems, generating creative and effective solutions, and implementing them efficiently.
+*   🚀 **Adaptability & Learning:**  Rapidly grasping new concepts, proactively seeking new knowledge, and embracing challenges with enthusiasm.
+*   🤝 **Teamwork:**  Collaborating effectively within teams, contributing positively to group dynamics, and valuing diverse perspectives.
+*   ⏱️ **Time Management:**  Prioritizing tasks effectively, meeting deadlines consistently, and managing time efficiently.
+*   🌟 **Leadership:** Taking initiative, guiding and motivating others, and fostering a positive and productive work environment.
+*   🔍 **Analytical Skills:**  Strong ability to analyze data, identify patterns, and draw meaningful conclusions.
+*   💡 **Innovation:** Continuously seeking new and improved ways of doing things, experimenting with new technologies, and pushing boundaries.
 ---
 
 ## 💻 Technical Skills
 
-*   **Languages:** 🐍 Python (TensorFlow, PyTorch, Pandas, NumPy, Scikit-learn, FastAPI, Flask), 🧰 C++ (Algorithms, OOP, STL), 📜 JavaScript (React.js, Node.js, Next.js, Vue.js, Express.js, Three.js), ☕ Java (Spring Boot, OOP, JUnit, Maven), 🎮 C# (Unity, Unreal Engine, .NET, ASP.NET), SQL, NoSQL
-*   **Frontend:** HTML5, CSS3, JavaScript, React.js, Next.js, Vue.js, Svelte, Tailwind CSS, Bootstrap
-*   **Backend:** Node.js, Express.js, Python (FastAPI, Flask), Java (Spring Boot)
-*   **Databases:** MongoDB, MySQL, PostgreSQL, Redis, Supabase, Firebase, DynamoDB, Amazon RDS/Aurora, Azure Cosmos DB, Google Cloud SQL/Spanner
-*   **AI/ML:** TensorFlow, PyTorch, Keras, Scikit-learn, XGBoost, LightGBM, CatBoost, OpenCV, YOLO, SAM, Detectron2, Roboflow, Hugging Face, W&B, DVC
-*   **Cloud:** AWS (SageMaker, Rekognition, Lambda), GCP (Vertex AI, Vision API), Azure (ML, Cognitive Services)
-*  **Web Services:** Cafe24, Shopify, WordPress, YouTube, Twitch, AWS Lambda, Cloudflare, Nginx, Streamlit, Gradio, Dash
-*   **Tools:** Git, Docker, Kubernetes, Jenkins, VS Code, PyCharm, Jupyter, Photoshop, Illustrator, Figma, Unity, Unreal Engine, Tableau, Hugging Face Hub
-
-<details>
-<summary><b><i>(Click to Expand Full Technical Skills Details)</i></b></summary>
-
 *   **Programming Languages:**
-    *   **Python:** TensorFlow, PyTorch, Pandas, NumPy, Scikit-learn, FastAPI, Flask, DVC
-    *   **C++:** Efficient Algorithms, Object-Oriented Programming, Systems Programming, STL
-    *   **JavaScript:** React.js, Node.js, Next.js, Vue.js, Svelte, Express.js, Three.js
-    *   **Java:** Spring Boot, Object-Oriented Design, JUnit, Maven
-    *   **C#:** Unity, Unreal Engine, .NET, ASP.NET
+    *   🐍 **Python:** TensorFlow, PyTorch, Pandas, NumPy, Scikit-learn, FastAPI, Flask, DVC
+    *   🧰 **C++:** Efficient Algorithms, Object-Oriented Programming, Systems Programming, STL
+    *   📜 **JavaScript:** React.js, Node.js, Next.js, Vue.js, Svelte, Express.js, Three.js
+    *   ☕ **Java:** Spring Boot, Object-Oriented Design, JUnit, Maven
+    *   🎮 **C#:** Unity, Unreal Engine, .NET, ASP.NET
     *   **SQL:** MySQL, PostgreSQL, SQLite
     *   **NoSQL:** MongoDB, Redis, DynamoDB
 *   **Web Development:**
@@ -77,33 +76,16 @@
 *    **Tools & Platforms:**
     *   **Tools:** Git, Docker, Kubernetes, Jenkins, VS Code, PyCharm, Jupyter Notebook, Photoshop, Illustrator, Figma, Pygame, Unity, Unreal Engine, AWS Cloud9, Google Colab, Kaggle Kernels, Tableau, Hugging Face Hub, Vercel, Netlify.
     *   **Platforms:** Hugging Face, Kaggle, Weights & Biases, Roboflow, Vercel, Netlify, Velog, Supabase.
-</details>
 
 ---
 
 ## 🎓 Certifications & Licenses
-*   **NVIDIA DLI:** Getting Started with AI on Jetson Nano (Feb 2025), Building Video AI Apps on Jetson Nano (Feb 2025), Anomaly Detection (Feb 2025), Computer Vision for Industrial Inspection (Feb 2025), Deep Learning for Computer Vision, Multi-GPU Fundamentals, + *many more (see full list below)*
-    *   Other: Web Design Technician, Industrial Safety Engineer, Word Processor, Computer Utilization, Driver's License, Taekwondo/Hapkido 3rd Dan, RFID-GL, GTQ Photoshop/Illustrator
-<details>
-    <summary><b><i>(Click to Expand Full DLI List)</i></b></summary>
 
-    *   Applications of AI for Predictive Maintenance (January 2025)
-    *   Building AI-Based Cybersecurity Pipelines (January 2025)
-    *   Building Conversational AI Applications (January 2025)
-    *   Building LLM Applications With Prompt Engineering (January 2025)
-    *   Generative AI with Diffusion Models (January 2025)
-    *   Transformer-Based Natural Language Processing Applications (January 2025)
-    *   Accelerating CUDA C Applications with Multiple GPUs (December 2024)
-    *   Data Parallelism: How to Train Deep Learning Models on Multiple GPUs (December 2024)
-    *   Model Parallelism: Building and Deploying Large Neural Networks (December 2024)
-    *   Accelerating Data Engineering Pipelines (November 2024)
-    *   Fundamentals of Accelerated Computing with CUDA C/C++ (November 2024)
-    *   Fundamentals of Accelerated Computing with CUDA Python (November 2024)
-    *   Fundamentals of Accelerated Data Science (November 2024)
-    *   Fundamentals of Deep Learning (November 2024)
-</details>
+*   **NVIDIA DLI:** Getting Started with AI on Jetson Nano (Feb 2025), Building Video AI Apps on Jetson Nano (Feb 2025), Anomaly Detection (Feb 2025), Computer Vision for Industrial Inspection (Feb 2025), Deep Learning for Computer Vision, Multi-GPU Fundamentals, Applications of AI for Predictive Maintenance (January 2025), Building AI-Based Cybersecurity Pipelines (January 2025), Building Conversational AI Applications (January 2025), Building LLM Applications With Prompt Engineering (January 2025), Generative AI with Diffusion Models (January 2025), Transformer-Based Natural Language Processing Applications (January 2025), Accelerating CUDA C Applications with Multiple GPUs (December 2024), Data Parallelism: How to Train Deep Learning Models on Multiple GPUs (December 2024), Model Parallelism: Building and Deploying Large Neural Networks (December 2024), Accelerating Data Engineering Pipelines (November 2024), Fundamentals of Accelerated Computing with CUDA C/C++ (November 2024), Fundamentals of Accelerated Computing with CUDA Python (November 2024), Fundamentals of Accelerated Data Science (November 2024), Fundamentals of Deep Learning (November 2024)
+*   **Other:** Web Design Technician, Industrial Safety Engineer, Word Processor, Computer Utilization, Driver's License, Taekwondo/Hapkido 3rd Dan, RFID-GL, GTQ Photoshop/Illustrator
 
 ---
+
 ## 🏫 Education
 
 *   **Hansung University**, Seoul, South Korea - Bachelor of Industrial Management Engineering (2014-2018)
@@ -113,8 +95,7 @@
 ---
 
 ## 📂 Projects
-<details>
-<summary><b>Click to Expand Project Details</b></summary>
+
 1.  🚬 **Real-time Cigarette Detection System**
 
     *   **Tech:** Python, OpenCV, Ultralytics YOLO, Pygame
@@ -124,5 +105,5 @@
 
     *   **Tech:** Python, TensorFlow, AI Hub "Emotional Dialogue Corpus", NVIDIA P100 GPUs, Kaggle TPUs
     *   **Description:** Fine-tuned the Gemma 2 model using the AI Hub "Emotional Dialogue Corpus" to create a culturally sensitive AI companion for mental wellbeing support within the South Korean community. Leveraged Kaggle TPUs, NVIDIA P100 GPUs, and LoRA for optimized training and memory efficiency.
-</details>
+
 ---
