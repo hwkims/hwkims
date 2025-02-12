@@ -27,66 +27,77 @@
 
 ## 💪 Key Strengths
 
-*   🎯 **Diligence:** Unwavering commitment to excellence, meticulous preparation, and consistent effort in all projects. I believe in going the extra mile! 💯
-*   🗣️ **Communication:** Clear and concise articulation of ideas, active listening skills, and fostering collaborative environments. I'm all about teamwork! 🤝
-*   🧠 **Problem-Solving:** Proficiency in analyzing complex problems, generating creative and effective solutions, and implementing them efficiently. Bring on the challenges! 💪
-*   🚀 **Adaptability & Learning:** Rapidly grasping new concepts, proactively seeking new knowledge, and embracing challenges with enthusiasm. Always learning, always growing! 🌱
-*   🤝 **Teamwork:** Collaborating effectively within teams, contributing positively to group dynamics, and valuing diverse perspectives.  Let's build something amazing together! 🌟
-*   ⏱️ **Time Management:** Prioritizing tasks effectively, meeting deadlines consistently, and managing time efficiently.  Time is precious! ⏳
-*   🌟 **Leadership:** Taking initiative, guiding and motivating others, and fostering a positive and productive work environment.  Let's lead the way! 🌠
-*   🔍 **Analytical Skills:** Strong ability to analyze data, identify patterns, and draw meaningful conclusions. Data is power! 📊
-*   💡 **Innovation:** Continuously seeking new and improved ways of doing things, experimenting with new technologies, and pushing boundaries.  The future is now! ✨
+*   🎯 **Diligence:** Unwavering commitment to excellence, meticulous preparation, and consistent effort. 💯
+*   🗣️ **Communication:** Clear and concise articulation, active listening, fostering collaborative environments. 🤝
+*   🧠 **Problem-Solving:** Proficiency in analyzing complex problems, generating creative and effective solutions. 💪
+*   🚀 **Adaptability & Learning:** Rapidly grasping new concepts, proactively seeking knowledge, embracing challenges. 🌱
+*   🤝 **Teamwork:** Collaborating effectively, contributing positively, valuing diverse perspectives. 🌟
+*   ⏱️ **Time Management:** Prioritizing tasks, meeting deadlines, managing time efficiently. ⏳
+*   🌟 **Leadership:** Taking initiative, guiding and motivating others, fostering a positive environment. 🌠
+*   🔍 **Analytical Skills:** Analyzing data, identifying patterns, drawing meaningful conclusions. 📊
+*   💡 **Innovation:** Seeking new and improved ways, experimenting with new technologies, pushing boundaries. ✨
 
 ---
 
 ## 💻 Technical Skills
 
-*   **Programming Languages:**
-    *   🐍 **Python:** TensorFlow, PyTorch, Pandas, NumPy, Scikit-learn, FastAPI, Flask, DVC - My go-to language for all things AI! 🤖
-    *   🧰 **C++:** Efficient Algorithms, Object-Oriented Programming, Systems Programming, STL - For performance-critical applications! 🚀
-    *   📜 **JavaScript:** React.js, Node.js, Next.js, Vue.js, Svelte, Express.js, Three.js - Building interactive and dynamic web experiences! 🌐
-    *   ☕ **Java:** Spring Boot, Object-Oriented Design, JUnit, Maven - For robust and scalable enterprise applications! 🏢
-    *   🎮 **C#:** Unity, Unreal Engine, .NET, ASP.NET - Creating immersive gaming experiences and powerful applications! 🕹️
-    *   **SQL:** MySQL, PostgreSQL, SQLite - Managing and querying relational databases! 🗄️
-    *   **NoSQL:** MongoDB, Redis, DynamoDB - For flexible and scalable data storage! 🗃️
+### Programming Languages
 
-*   **Web Development:**
-    *   **Frontend:** HTML5, CSS3, JavaScript, React.js, Next.js, Vue.js, Svelte, Tailwind CSS, Bootstrap - Crafting beautiful and responsive user interfaces! ✨
-    *   **Backend:** Node.js, Express.js, Python (FastAPI, Flask), Java (Spring Boot) - Building the engine that powers the web! ⚙️
-    *   **Databases:** MongoDB, MySQL, PostgreSQL, Redis, Supabase, Firebase, DynamoDB, Amazon RDS, Amazon Aurora, Azure Cosmos DB, Google Cloud SQL, Google Cloud Spanner -  A database for every need! 🗄️
-    *   **Web Services & Platforms:**
-        *   **E-commerce:** Cafe24, Shopify, WooCommerce - Building online stores! 🛒
-        *   **CMS:** WordPress, Drupal, Joomla - Empowering content creators! 📝
-        *   **Social Media & Streaming:** YouTube, Twitch, Facebook, Instagram, TikTok - Connecting with the world! 📱
-        *   **Serverless:** AWS Lambda, Google Cloud Functions, Azure Functions - Scalable and cost-effective computing! ⚡
-        *   **Web Servers:** Apache, Nginx - Serving the web! 🌐
-        *   **API Gateways:** Amazon API Gateway, Google Cloud Endpoints, Kong - Managing and securing APIs! 🔑
-        *   **CDN:** Cloudflare, Amazon CloudFront, Akamai - Delivering content with speed and reliability! 🚀
-        *   **Interactive Web Apps:** Streamlit, Gradio, Dash - Building data-driven web applications with ease! 📊
+| Language     | Skills                                                                                   |
+| :----------- | :--------------------------------------------------------------------------------------- |
+| 🐍 **Python** | TensorFlow, PyTorch, Pandas, NumPy, Scikit-learn, FastAPI, Flask, DVC                      |
+| 🧰 **C++**    | Efficient Algorithms, Object-Oriented Programming, Systems Programming, STL              |
+| 📜 **JavaScript** | React.js, Node.js, Next.js, Vue.js, Svelte, Express.js, Three.js                        |
+| ☕ **Java**   | Spring Boot, Object-Oriented Design, JUnit, Maven                                        |
+| 🎮 **C#**     | Unity, Unreal Engine, .NET, ASP.NET                                                     |
+| **SQL**      | MySQL, PostgreSQL, SQLite                                                               |
+| **NoSQL**     | MongoDB, Redis, DynamoDB                                                                 |
 
-*   **AI/ML:**
-    *   **Deep Learning Frameworks:** TensorFlow, PyTorch, Keras - The powerhouses of deep learning! 🧠
-    *   **Machine Learning:** Scikit-learn, XGBoost, LightGBM, CatBoost -  For all your machine learning needs! 🤖
-    *   **Computer Vision:** OpenCV, Ultralytics YOLO, SAM (Segment Anything Model), Detectron2, Roboflow -  Making computers see! 👀
-    *   **NLP:** Hugging Face Transformers, BERT, GPT, Gemma, Llama, SpaCy, NLTK -  Understanding and generating human language! 🗣️
-    *   **Cloud Platforms**: AWS (Amazon Web Services), GCP (Google Cloud Platform), Azure - The cloud is the limit! ☁️
-    *   **Cloud AI Services:**
-        *   **AWS:** SageMaker, Rekognition, Comprehend, Textract -  AI on the AWS cloud! ☁️
-        *   **GCP:** Vertex AI, Vision API, Natural Language API, Cloud TPU - AI on the Google Cloud! ☁️
-        *   **Azure:** Azure Machine Learning, Cognitive Services, Computer Vision, Text Analytics - AI on the Azure cloud! ☁️
-    *   **Experiment Tracking:** Weights & Biases (W&B) - Keeping track of my AI experiments! 🧪
-    *   **Model Deployment & Serving:** TensorFlow Serving, TorchServe, NVIDIA Triton Inference Server - Deploying AI models to the real world! 🚀
-    *   **Data Versioning**: DVC - Managing data like code! 🗄️
+### Web Development
 
-*    **Tools & Platforms:**
-    *   **Tools:** Git, Docker, Kubernetes, Jenkins, VS Code, PyCharm, Jupyter Notebook, Photoshop, Illustrator, Figma, Pygame, Unity, Unreal Engine, AWS Cloud9, Google Colab, Kaggle Kernels, Tableau, Hugging Face Hub, Vercel, Netlify - My essential toolkit! 🛠️
-    *   **Platforms:** Hugging Face, Kaggle, Weights & Biases, Roboflow, Vercel, Netlify, Velog, Supabase - Connecting with the AI and developer community! 🤝
+| Category        | Skills                                                                                                                      |
+| :-------------- | :-------------------------------------------------------------------------------------------------------------------------- |
+| 🌐 **Frontend**   | HTML5, CSS3, JavaScript, React.js, Next.js, Vue.js, Svelte, Tailwind CSS, Bootstrap                                         |
+| ⚙️ **Backend**    | Node.js, Express.js, Python (FastAPI, Flask), Java (Spring Boot)                                                               |
+| 🗄️ **Databases** | MongoDB, MySQL, PostgreSQL, Redis, Supabase, Firebase, DynamoDB, Amazon RDS/Aurora, Azure Cosmos DB, Google Cloud SQL/Spanner |
+
+#### Web Services & Platforms
+
+| Category               | Services                                                                                             |
+| :--------------------- | :--------------------------------------------------------------------------------------------------- |
+| **E-commerce**         | Cafe24, Shopify, WooCommerce                                                                        |
+| **CMS**                | WordPress, Drupal, Joomla                                                                           |
+| **Social & Streaming** | YouTube, Twitch, Facebook, Instagram, TikTok                                                         |
+| **Serverless**        | AWS Lambda, Google Cloud Functions, Azure Functions                                                   |
+| **Web Servers**       | Apache, Nginx                                                                                       |
+| **API Gateways**     | Amazon API Gateway, Google Cloud Endpoints, Kong                                                     |
+| **CDN**                | Cloudflare, Amazon CloudFront, Akamai                                                                |
+| **Interactive Apps**  | Streamlit, Gradio, Dash                                                                             |
+
+### AI/ML
+
+| Category            | Skills                                                                                                                   |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------- |
+| 🧠 **Frameworks**     | TensorFlow, PyTorch, Keras                                                                                              |
+| 🤖 **ML**             | Scikit-learn, XGBoost, LightGBM, CatBoost                                                                               |
+| 👀 **Vision**        | OpenCV, Ultralytics YOLO, SAM (Segment Anything Model), Detectron2, Roboflow                                             |
+| 🗣️ **NLP**          | Hugging Face Transformers, BERT, GPT, Gemma, Llama, SpaCy, NLTK                                                           |
+| ☁️ **Cloud**        | AWS (SageMaker, Rekognition, Comprehend, Textract), GCP (Vertex AI, Vision API), Azure (ML, Cognitive Services)            |
+| 🧪 **Experiment Tracking** | Weights & Biases (W&B)                                                                                               |
+| 🚀 **Deployment**   | TensorFlow Serving, TorchServe, NVIDIA Triton Inference Server                                                          |
+| 🗄️ **Data Versioning**| DVC                                                                                                                 |
+### Tools & Platforms
+
+| Category      | Tools/Platforms                                                                                                                                           |
+| :------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🛠️ **Tools**   | Git, Docker, Kubernetes, Jenkins, VS Code, PyCharm, Jupyter Notebook, Photoshop, Illustrator, Figma, Pygame, Unity, Unreal Engine, AWS Cloud9, Google Colab, Kaggle Kernels, Tableau |
+| 🤝 **Platforms** | Hugging Face, Kaggle, Weights & Biases, Roboflow, Vercel, Netlify, Velog, Supabase                                                                        |
 
 ---
 
 ## 🎓 Certifications & Licenses
 
-*   **NVIDIA Deep Learning Institute (DLI):** 
+*   **NVIDIA DLI:**
     *   Getting Started with AI on Jetson Nano (February 2025) 🚀
     *   Building Video AI Applications at the Edge on Jetson Nano (February 2025) 📹
     *   Applications of AI for Anomaly Detection (February 2025) 🕵️‍♂️
