@@ -86,27 +86,31 @@
 
 ## 🎓 Certifications & Licenses
 
-*   **NVIDIA Deep Learning Institute (DLI):** 
-    *   Getting Started with AI on Jetson Nano (February 2025) 🚀
-    *   Building Video AI Applications at the Edge on Jetson Nano (February 2025) 📹
-    *   Applications of AI for Anomaly Detection (February 2025) 🕵️‍♂️
-    *   Computer Vision for Industrial Inspection (February 2025) 👁️
-    *   Deep Learning for Computer Vision 👁️
-    *   Fundamentals of Deep Learning for Multi-GPUs 🧠
-    *   Applications of AI for Predictive Maintenance (January 2025) 🛠️
-    *   Building AI-Based Cybersecurity Pipelines (January 2025) 🛡️
-    *   Building Conversational AI Applications (January 2025) 💬
-    *   Building LLM Applications With Prompt Engineering (January 2025) 📝
-    *   Generative AI with Diffusion Models (January 2025) ✨
-    *   Transformer-Based Natural Language Processing Applications (January 2025) 🗣️
-    *   Accelerating CUDA C Applications with Multiple GPUs (December 2024) 🚀
-    *   Data Parallelism: How to Train Deep Learning Models on Multiple GPUs (December 2024) 🧠
-    *   Model Parallelism: Building and Deploying Large Neural Networks (December 2024) 🌐
-    *   Accelerating Data Engineering Pipelines (November 2024) 🚀
-    *   Fundamentals of Accelerated Computing with CUDA C/C++ (November 2024) 🧰
-    *   Fundamentals of Accelerated Computing with CUDA Python (November 2024) 🐍
-    *   Fundamentals of Accelerated Data Science (November 2024) 📊
-    *   Fundamentals of Deep Learning (November 2024) 🧠
+*   **Amazon Web Services (AWS) Training:**
+    *   AWS Flash - AWS Security: Securing Generative AI on AWS (February 2025) 🔒 - Implementing security best practices for generative AI on AWS.
+    *   Building Language Models on AWS (February 2025) 💬 - Developing and deploying language models using AWS services.
+
+*   **NVIDIA Deep Learning Institute (DLI):**
+    *   Getting Started with AI on Jetson Nano (February 2025) 🚀 - Deploying AI at the edge with Jetson Nano.
+    *   Building Video AI Applications at the Edge on Jetson Nano (February 2025) 📹 - Developing video analytics for edge computing.
+    *   Applications of AI for Anomaly Detection (February 2025) 🕵️‍♂️ - Identifying unusual patterns in data using AI.
+    *   Computer Vision for Industrial Inspection (March 2025) 👁️ - Automating quality control with computer vision.
+    *   Deep Learning for Computer Vision 👁️ - Applying deep learning to solve computer vision tasks.
+    *   Fundamentals of Deep Learning for Multi-GPUs 🧠 - Deep learning concepts with multi-GPU parallelization.
+    *   Applications of AI for Predictive Maintenance (January 2025) 🛠️ - Predicting equipment failures with AI.
+    *   Building AI-Based Cybersecurity Pipelines (January 2025) 🛡️ - AI-powered threat detection and response.
+    *   Building Conversational AI Applications (January 2025) 💬 - Creating chatbots and virtual assistants.
+    *   Building LLM Applications With Prompt Engineering (January 2025) 📝 - Guiding large language models with prompts.
+    *   Generative AI with Diffusion Models (January 2025) ✨ - Creating content with diffusion-based models.
+    *   Transformer-Based Natural Language Processing Applications (January 2025) 🗣️ - Implementing NLP with Transformers.
+    *   Accelerating CUDA C Applications with Multiple GPUs (December 2024) 🚀 - Optimizing CUDA C code for multiple GPUs.
+    *   Data Parallelism: How to Train Deep Learning Models on Multiple GPUs (December 2024) 🧠 - Data parallel training for deep learning.
+    *   Model Parallelism: Building and Deploying Large Neural Networks (December 2024) 🌐 - Distributing large models across devices.
+    *   Accelerating Data Engineering Pipelines (November 2024) 🚀 - Streamlining data processing workflows.
+    *   Fundamentals of Accelerated Computing with CUDA C/C++ (November 2024) 🧰 - Parallel programming with CUDA for C/C++.
+    *   Fundamentals of Accelerated Computing with CUDA Python (November 2024) 🐍 - Accelerated computing with CUDA and Python.
+    *   Fundamentals of Accelerated Data Science (November 2024) 📊 - Accelerating data science with GPUs.
+    *   Fundamentals of Deep Learning (November 2024) 🧠 - Core concepts of deep learning.
 
 *   **Other:**
     *   🎨 Web Design Technician (National Technical Qualification)
