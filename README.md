@@ -146,6 +146,5 @@
     *   **Tech:** Python, TensorFlow, AI Hub "Emotional Dialogue Corpus", NVIDIA P100 GPUs, Kaggle TPUs
     *   **Description:** Fine-tuned the Gemma 2 model using the AI Hub "Emotional Dialogue Corpus" to create a culturally sensitive AI companion for mental wellbeing support within the South Korean community. Leveraged Kaggle TPUs, NVIDIA P100 GPUs, and LoRA for optimized training and memory efficiency.
 
----![Uploading ChatGPT Image 2025년 4월 20일 오후 11_14_12.png…]()
-
+--- 
 ![image](https://github.com/user-attachments/assets/ffced987-2712-46d0-a128-5fdfe4e7b6df)
