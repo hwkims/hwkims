@@ -1,10 +1,11 @@
 <!-- Profile Header with Badges -->
 <p align="center">
+    <img src="https://img.shields.io/badge/NVIDIA-AI Academy-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA Badge">
   <a href="https://www.linkedin.com/in/hwkims/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
   <a href="mailto:hwkims@naver.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"></a>
   <a href="mailto:kim@hansung.ac.kr"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="University Email Badge"></a>
   <a href="https://huggingface.co/kimhyunwoo" target="_blank"><img src="https://img.shields.io/badge/Hugging Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face Badge"></a>
-  <img src="https://img.shields.io/badge/NVIDIA-AI Academy-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA Badge">
+
 </p>
 
 *   **NVIDIA Deep Learning Institute (DLI):**
